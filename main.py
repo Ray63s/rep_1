@@ -33,3 +33,4 @@ elif x == 3:
 else:
     print("error, Try Again!")
 
+print("thank you for using my calculator!")
